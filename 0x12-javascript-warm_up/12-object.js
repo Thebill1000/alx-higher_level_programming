@@ -1,5 +1,4 @@
-#!/usr/bin/bash
-/* a script update */
+#!/usr/bin/node
 const myObject = {
   type: 'object',
   value: 12
