@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """a Python file similar to model_state.py named model_city.py
 that contains the class definition of a City"""
+
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import ForeignKey
